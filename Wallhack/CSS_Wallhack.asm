@@ -2,7 +2,7 @@
 ; and then modifies the client variable r_drawothermodels and setting its value to 1. This value is 
 ; scanned by VAC so this method is not VAC secure.
 ;
-; Originally written 2010/03/20 by attilathedud.
+; Originally written 2010/01/20 by attilathedud.
 
 ; System descriptors
 .386
